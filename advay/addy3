@@ -1,0 +1,33 @@
+<!Doctype html>
+<html>
+<head>
+  <title> hello</title>
+<style>
+  <h1> {
+    color:#45b0a7;
+  }
+  <p> {
+    color:#66ba13
+  }
+</style>
+</head>
+<body>
+<h1> Fine Day Today</h1>
+<p>what do you want to do today?</p>
+when the days are cold
+and the cards all fold
+and the saints we see are all made of gold
+hello the world is good, right?
+<p>The world is a very strange place. Filled with many wonders and dark secrets. let me know what you think of the world, by writing a short summary  </p>
+<input type="text" placeholder=" your thoughts" name="name">
+<button>let us know what u think</button>
+<p> this all is much to extra, what do you think?</p>
+<h6>heres a secret, those random words are actually from a song.</h6>
+<h5>i like tomatoes</h5>
+<h4> the world is quite nice today, if it werent for that pesky corona virus</h4>
+what does the fox say?
+<p> you know, this is a great piece of code</p>
+<h1>THIS IS A TEST WEBSITE! DO NOT EXECUTE PROGRAM!</h1>
+</body>
+
+</html>

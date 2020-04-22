@@ -1,0 +1,21 @@
+<!Doctype html>
+<html>
+<head>
+<title>my webpage </title>
+<style>
+<p> {
+color: blue;
+}
+</style>
+</head>
+<body>
+<p>hello world</p>
+<h1> this is cool</h1>
+<p> hello there this is me.
+i am trying to create a new webpage.
+i hope every one is having a great day</p>
+<h1>the world is not falling</h1>
+<h2>no need to ave yourselves</h2>
+<h6>whoppsie</h6>
+</body>
+</html>
