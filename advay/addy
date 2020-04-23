@@ -6,6 +6,9 @@
 <p> {
 color: blue;
 }
+<h6> {
+  color: green;
+}
 </style>
 </head>
 <body>
