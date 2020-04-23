@@ -62,11 +62,13 @@
     </tr>
     <p> i hope u enjoyed!</p>
 <h2>if you feel this site was helpful/not up to your standards, please tell us</h2>
-
+<h3> iphones changes a lot, dont you think? </h3>
 <input type="text" name="" placeholder="your thoughts">
 <input type="text" name="email" placeholder="email">
 <button> SUBMIT</button>
 thank you for your support!
 
+  
+  
   </body>
 </html>
